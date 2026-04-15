@@ -3,5 +3,6 @@
 
 # 但保留以下文件
 !gamesDown.py
+!musicDown.py
 !README.md
 !.gitignore
